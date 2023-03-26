@@ -3,23 +3,23 @@ import { IApiItem, IItemData } from "../types/index";
 const breeds: IItemData[] = [
   {
     heading: "Rottwe",
-    img: "../src/assets/1-rottweiler.svg",
+    img: "src/assets/rottweiler.svg",
     bodyText: "",
   },
   {
     heading: "Dachshund",
-    img: "../src/assets/2-dachshund.svg",
+    img: "src/assets/dachshund.svg",
     bodyText:
       "Woof Woof (Dachshund breed not found in the DogApi or any other related breed)",
   },
   {
     heading: "American Bulld",
-    img: "../src/assets/3-bulldog.svg",
+    img: "src/assets/bulldog.svg",
     bodyText: "",
   },
   {
     heading: "Greyh",
-    img: "../src/assets/4-greyhound.svg",
+    img: "src/assets/greyhound.svg",
     bodyText: "",
   },
 ];
